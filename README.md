@@ -1,2 +1,2 @@
 # GeeksforGeeks
-GeeksforGeeks Technical Scripter Intern Content
+To be updated.
