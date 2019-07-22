@@ -1,6 +1,36 @@
 # GeeksforGeeks
 
-Current Articles:
-https://www.geeksforgeeks.org/program-for-gauss-siedel-method-computational-mathematics/
+Some article links with the following domains:
+
+Computational Mathematics:
+--------
+Gauss Siedel Method: https://www.geeksforgeeks.org/program-for-gauss-siedel-method-computational-mathematics/
+
+Picard's Method: https://www.geeksforgeeks.org/program-for-picards-iterative-method-computational-mathematics/
+
+Bootstrap:
+--------
+Utilites: https://www.geeksforgeeks.org/bootstrap-4-utilities/
+
+Tab Disabling: https://www.geeksforgeeks.org/how-to-disable-tabs-in-bootstrap/
+
+MySQL:
+--------
+Procedures: https://www.geeksforgeeks.org/different-types-of-procedures-in-mysql/
+
+Triggers: https://www.geeksforgeeks.org/different-types-of-mysql-triggers-with-examples/
+
+PHP-Imagick(library-functions):
+--------
+https://www.geeksforgeeks.org/php-imagick-gaussianblurimage-function/
+
+https://www.geeksforgeeks.org/php-imagick-polaroidimage-function/
+
+https://www.geeksforgeeks.org/php-imagick-cropthumbnailimage-function/
+
+
+Basic C++
+--------
+https://www.geeksforgeeks.org/menu-driven-program-to-convert-mks-to-cgs-and-cgs-to-mks/
 
 To be updated.
