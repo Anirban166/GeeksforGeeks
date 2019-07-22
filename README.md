@@ -20,16 +20,16 @@ Procedures: https://www.geeksforgeeks.org/different-types-of-procedures-in-mysql
 
 Triggers: https://www.geeksforgeeks.org/different-types-of-mysql-triggers-with-examples/
 
-PHP-Imagick(library-functions):
+PHP-Imagick:
 --------
-https://www.geeksforgeeks.org/php-imagick-gaussianblurimage-function/
+Gaussian Blur: https://www.geeksforgeeks.org/php-imagick-gaussianblurimage-function/
 
-https://www.geeksforgeeks.org/php-imagick-polaroidimage-function/
+Polaroid: https://www.geeksforgeeks.org/php-imagick-polaroidimage-function/
 
-https://www.geeksforgeeks.org/php-imagick-cropthumbnailimage-function/
+Thumbnail Crop: https://www.geeksforgeeks.org/php-imagick-cropthumbnailimage-function/
 
 
-Basic C++
+Basic Programming
 --------
 https://www.geeksforgeeks.org/menu-driven-program-to-convert-mks-to-cgs-and-cgs-to-mks/
 
