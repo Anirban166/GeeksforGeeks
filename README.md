@@ -28,6 +28,8 @@ Polaroid: https://www.geeksforgeeks.org/php-imagick-polaroidimage-function/
 
 Thumbnail Crop: https://www.geeksforgeeks.org/php-imagick-cropthumbnailimage-function/
 
+Floodfill Paint: https://www.geeksforgeeks.org/php-imagick-floodfillpaintimage-function/
+
 
 Basic Programming
 --------
