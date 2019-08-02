@@ -33,7 +33,7 @@ Floodfill Paint: https://www.geeksforgeeks.org/php-imagick-floodfillpaintimage-f
 
 Basic Programming
 --------
-https://www.geeksforgeeks.org/menu-driven-program-to-convert-mks-to-cgs-and-cgs-to-mks/
+Metric Converter: https://www.geeksforgeeks.org/menu-driven-program-to-convert-mks-to-cgs-and-cgs-to-mks/
 https://www.geeksforgeeks.org/c-program-to-compare-two-strings-using-operator-overloading
 
 To be updated.
