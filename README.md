@@ -35,6 +35,6 @@ Basic Programming
 --------
 Metric Converter: https://www.geeksforgeeks.org/menu-driven-program-to-convert-mks-to-cgs-and-cgs-to-mks/
 
-https://www.geeksforgeeks.org/c-program-to-compare-two-strings-using-operator-overloading
+String comparison using operator overloading: https://www.geeksforgeeks.org/c-program-to-compare-two-strings-using-operator-overloading
 
 To be updated.
