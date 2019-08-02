@@ -31,7 +31,7 @@ Thumbnail Crop: https://www.geeksforgeeks.org/php-imagick-cropthumbnailimage-fun
 Floodfill Paint: https://www.geeksforgeeks.org/php-imagick-floodfillpaintimage-function/
 
 
-Basic Programming
+Basic Programming | C++
 --------
 Metric Converter: https://www.geeksforgeeks.org/menu-driven-program-to-convert-mks-to-cgs-and-cgs-to-mks/
 
