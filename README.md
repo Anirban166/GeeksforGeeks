@@ -1,6 +1,6 @@
 # GeeksforGeeks / GFG
 
-Links to some of my GFG articles (with respective domains):
+Links to some of my GFG articles (with respective domains): 
 
 Computational Mathematics:
 --------
