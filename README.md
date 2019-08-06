@@ -8,7 +8,7 @@ Gauss Siedel Method: https://www.geeksforgeeks.org/program-for-gauss-siedel-meth
 
 Picard's Method: https://www.geeksforgeeks.org/program-for-picards-iterative-method-computational-mathematics/
 
-Bootstrap:
+Bootstrap: 
 --------
 Utilites: https://www.geeksforgeeks.org/bootstrap-4-utilities/
 
