@@ -1,5 +1,5 @@
-# GeeksforGeeks / GFG
-
+<img src="images/gfg.png" style="width:100%">
+<hr>
 Links to some of my GFG articles (with respective domains): 
 
 Computational Mathematics:
