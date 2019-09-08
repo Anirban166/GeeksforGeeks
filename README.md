@@ -1,4 +1,4 @@
-<img src="Images/gfg.png" style="width:100%">
+<img src="Images/gfgwithlogo.png" style="width:90%">
 <hr>
 Links to some of my GFG articles (with respective domains): 
 
