@@ -58,4 +58,4 @@ int main()
 
 	spiralPrint(R, C, a); 
 	return 0; 
-} 
+}  
