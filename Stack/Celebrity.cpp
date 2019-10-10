@@ -23,7 +23,7 @@ int main()
     }
 }
 
-}
+
 /*This is a function problem.You only need to complete the function given below*/
 // The task is to complete this function
 // M[][]: input matrix
