@@ -1,0 +1,4 @@
+//count no. of digits
+int countDigits(int n) { return n == 0 ? 0 : 1 + countDigits(n/10) ; }
+//sum of digits
+int sumOfDigits(int n) {return n == 0 ? 0 : n%10 + sumOfDigits(n/10) ;}
