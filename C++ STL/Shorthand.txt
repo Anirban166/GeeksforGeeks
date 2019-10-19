@@ -2,3 +2,5 @@
 int countDigits(int n) { return n == 0 ? 0 : 1 + countDigits(n/10) ; }
 //sum of digits
 int sumOfDigits(int n) {return n == 0 ? 0 : n%10 + sumOfDigits(n/10) ;}
+//nth fibonacci number
+int fibonacci(int n) { if (n <= 1) return n; return fibonacci(n-1) + fibonacci(n-2); }
