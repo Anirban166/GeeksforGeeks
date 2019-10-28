@@ -10,4 +10,4 @@ Arrays.stream(num).filter(s -> s >= 0).toArray();
 reverse(str.begin(),str.end());
 //reverse first k characters
 reverse(str.begin()+i,str.end()+i+k);
-i+=2*k; //skip next k characters
+i+=2*k; //skip next k characters  
