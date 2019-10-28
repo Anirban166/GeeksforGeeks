@@ -6,3 +6,8 @@ int sumOfDigits(int n) {return n == 0 ? 0 : n%10 + sumOfDigits(n/10) ;}
 int fibonacci(int n) { if (n <= 1) return n; return fibonacci(n-1) + fibonacci(n-2); }
 //Assign only Non-negative numbers to array
 Arrays.stream(num).filter(s -> s >= 0).toArray();
+//String reverse
+reverse(str.begin(),str.end());
+//reverse first k characters
+reverse(str.begin()+i,str.end()+i+k);
+i+=2*k; //skip next k characters
